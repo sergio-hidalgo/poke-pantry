@@ -1,0 +1,68 @@
+[
+  {
+    "id": 0,
+    "productName": "Fresh Avocados",
+    "image": "🥑",
+    "from": "Spain",
+    "nutrients": "Vitamin B, Vitamin K",
+    "quantity": "4 🥑",
+    "price": "6.50",
+    "organic": true,
+    "description": "A ripe avocado yields to gentle pressure when held in the palm of the hand and squeezed. The fruit is not sweet, but distinctly and subtly flavored, with smooth texture. The avocado is popular in vegetarian cuisine as a substitute for meats in sandwiches and salads because of its high fat content. Generally, avocado is served raw, though some cultivars, including the common 'Hass', can be cooked for a short time without becoming bitter. It is used as the base for the Mexican dip known as guacamole, as well as a spread on corn tortillas or toast, served with spices."
+  },
+  {
+    "id": 1,
+    "productName": "Sushi Rice",
+    "image": "🍚",
+    "from": "Spain",
+    "nutrients": "Vitamin B12, Vitamin C, Vitamin D",
+    "quantity": "500g",
+    "price": "2.25",
+    "organic": false,
+    "description": "Rice has more lysine than wheat, corn and sorghum, and contains large amounts of starch. Clean rice, already devoid of its bran, usually has less dietary fiber than other cereals and is therefore more digestible. It can be a sustenance food and provides higher caloric content and more protein per hectare than wheat and corn. As a general rule, rice is cooked by applying moisture and heat to the grains. The ways of applying heat to rice for cooking are diverse. On some occasions, steam is applied by means of steamers and in this way steam cooking is carried out."
+  },
+  {
+    "id": 2,
+    "productName": "Red Shrimps",
+    "image": "🦐",
+    "from": "Chile",
+    "nutrients": "Vitamin B12, Iodine",
+    "quantity": "12 🦐",
+    "price": "15.00",
+    "organic": false,
+    "description": "Shrimp is one of the most commonly consumed types of shellfish. It’s quite nutritious and provides high amounts of certain nutrients, such as iodine, that aren’t abundant in many other foods. On the other hand, some people claim that shrimp is unhealthy due to its high cholesterol content. So shrimps are high in cholesterol, but they also contain omega-3 fatty acids that have been shown to promote heart health. Research on shrimp has also shown positive health effects. Shrimps can be prepared as an appetizer or in a dish, like curries or stir-fries. They can be covered in breadcrumbs or cooked on kebab sticks."
+  },
+  {
+    "id": 3,
+    "productName": "Apollo Broccoli",
+    "image": "🥦",
+    "from": "Portugal",
+    "nutrients": "Vitamin C, Vitamin K",
+    "quantity": "3 🥦",
+    "price": "5.50",
+    "organic": true,
+    "description": "Broccoli is known to be a hearty and tasty vegetable which is rich in dozens of nutrients. It is said to pack the most nutritional punch of any vegetable. When we think about green vegetables to include in our diet, broccoli is one of the foremost veggies to come to our mind. Broccoli is a cruciferous vegetable and part of the cabbage family, which includes vegetables such as Brussel sprouts and kale. Although the tastes are different, broccoli and these other vegetables are from the same family."
+  },
+  {
+    "id": 4,
+    "productName": "Baby Carrots",
+    "image": "🥕",
+    "from": "France",
+    "nutrients": "Vitamin A, Vitamin K",
+    "quantity": "20 🥕",
+    "price": "3.00",
+    "organic": true,
+    "description": "The carrot is a root vegetable that is often claimed to be the perfect health food. It is crunchy, tasty and highly nutritious. Carrots are a particularly good source of beta-carotene, fiber, vitamin K, potassium and antioxidants. Carrots have a number of health benefits. They are a weight loss friendly food and have been linked to lower cholesterol levels and improved eye health."
+  },
+  {
+    "id": 5,
+    "productName": "Sweet Corn",
+    "image": "🌽",
+    "from": "Germany",
+    "nutrients": "Vitamin C, Magnesium",
+    "quantity": "2 🌽",
+    "price": "2.00",
+    "organic": false,
+    "description": "Also known as maize, corn is one of the most popular cereal grains in the world. Popcorn and sweet corn are commonly eaten varieties, but refined corn products are also widely consumed, frequently as ingredients in foods. These include tortillas, tortilla chips, polenta, cornmeal, corn flour, corn syrup, and corn oil. Whole-grain corn is as healthy as any cereal grain, rich in fiber and many vitamins, minerals, and antioxidants."
+  }
+]

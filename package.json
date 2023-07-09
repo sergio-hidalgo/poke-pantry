@@ -1,0 +1,13 @@
+{
+  "name": "poke_pantry",
+  "version": "1.0.0",
+  "description": "Web app to display an online pantry with possible components of a poke bowl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "Sergio Hidalgo",
+  "license": "ISC"
+}
